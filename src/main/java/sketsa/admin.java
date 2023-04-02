@@ -18,6 +18,7 @@ public class admin {
         boolean ceklogin = login(PIN, keyPIN, username, keyusername);
 
         while (true) {
+            if ceklogin
             if (ceklogin && pilihan2 == 1) {
                 System.out.println(Design[2] + "\nApa yang akan Anda lakukan");
                 System.out.println("1. Ubah username");
