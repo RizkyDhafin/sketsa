@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ca9cf143-7a60-4c26-87c3-0392ea4374bb" name="Changes" comment="Penambahan sistem edit pin, username, dan keluar program" />
+    <list default="true" id="ca9cf143-7a60-4c26-87c3-0392ea4374bb" name="Changes" comment="Pemindahan kode dari public static void main(String[] args) ke function tersendiri agar memudahkan penyusunan program">
+      <change beforePath="$PROJECT_DIR$/src/main/java/sketsa/admin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sketsa/admin.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -94,7 +96,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680428368073</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Pemindahan kode dari public static void main(String[] args) ke function tersendiri agar memudahkan penyusunan program">
+      <created>1680428907076</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1680428907076</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -113,6 +122,7 @@
     <MESSAGE value="Penambahan sistem login admin" />
     <MESSAGE value="Penambahan sistem hitung salah input Username/PIN berapa kali. Jika kesempatan habis, program berhenti" />
     <MESSAGE value="Penambahan sistem edit pin, username, dan keluar program" />
-    <option name="LAST_COMMIT_MESSAGE" value="Penambahan sistem edit pin, username, dan keluar program" />
+    <MESSAGE value="Pemindahan kode dari public static void main(String[] args) ke function tersendiri agar memudahkan penyusunan program" />
+    <option name="LAST_COMMIT_MESSAGE" value="Pemindahan kode dari public static void main(String[] args) ke function tersendiri agar memudahkan penyusunan program" />
   </component>
 </project>
