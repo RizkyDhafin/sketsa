@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ca9cf143-7a60-4c26-87c3-0392ea4374bb" name="Changes" comment="">
+    <list default="true" id="ca9cf143-7a60-4c26-87c3-0392ea4374bb" name="Changes" comment="Penambahan while untuk mengecek inputan berupa integer atau bukan">
       <change beforePath="$PROJECT_DIR$/src/main/java/sketsa/admin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sketsa/admin.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/sketsa/menu_utama.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sketsa/menu_utama.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,6 +54,18 @@
       <option name="presentableId" value="Default" />
       <updated>1680424292885</updated>
     </task>
+    <task id="LOCAL-00001" summary="Penambahan while untuk mengecek inputan berupa integer atau bukan">
+      <created>1680425857412</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1680425857412</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Penambahan while untuk mengecek inputan berupa integer atau bukan" />
+    <option name="LAST_COMMIT_MESSAGE" value="Penambahan while untuk mengecek inputan berupa integer atau bukan" />
   </component>
 </project>
